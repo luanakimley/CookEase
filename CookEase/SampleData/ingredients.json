@@ -1,0 +1,692 @@
+[
+    {
+        "name": "Salt",
+        "calories": 0,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pepper",
+        "calories": 251,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Sugar",
+        "calories": 387,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Chicken Breast",
+        "calories": 165,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Olive Oil",
+        "calories": 884,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Milk",
+        "calories": 42,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Egg",
+        "calories": 155,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Broccoli",
+        "calories": 34,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Rice",
+        "calories": 130,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Tomato",
+        "calories": 18,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Flour",
+        "calories": 455,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Butter",
+        "calories": 717,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Garlic Clove",
+        "calories": 4.5,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Onion",
+        "calories": 44,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Lemon",
+        "calories": 17,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Ground Beef",
+        "calories": 250,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pasta",
+        "calories": 158,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Parmesan Cheese",
+        "calories": 431,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Carrot",
+        "calories": 41,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Celery",
+        "calories": 6,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Ground Turkey",
+        "calories": 180,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Honey",
+        "calories": 304,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Yogurt",
+        "calories": 59,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Apple",
+        "calories": 95,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Banana",
+        "calories": 105,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Cucumber",
+        "calories": 45,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Avocado",
+        "calories": 322,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Bell Pepper",
+        "calories": 24,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Spinach",
+        "calories": 7,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Bread",
+        "calories": 79,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Peanut Butter",
+        "calories": 588,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Jelly",
+        "calories": 48,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Sesame Oil",
+        "calories": 884,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Cabbage",
+        "calories": 25,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Ground Pork",
+        "calories": 263,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Lettuce",
+        "calories": 5,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Cheddar Cheese",
+        "calories": 403,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Sour Cream",
+        "calories": 12,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Mayonnaise",
+        "calories": 90,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Cilantro",
+        "calories": 1,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Parsley",
+        "calories": 1,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Thyme",
+        "calories": 3,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Basil",
+        "calories": 1,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Bay Leaf",
+        "calories": 5,
+        "measurementUnit": "pieces"
+    },
+    {
+        "name": "Cinnamon",
+        "calories": 6,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Nutmeg",
+        "calories": 6,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Cocoa Powder",
+        "calories": 12,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Chocolate Chips",
+        "calories": 805,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Almonds",
+        "calories": 579,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Walnuts",
+        "calories": 654,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pecans",
+        "calories": 690,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Cashews",
+        "calories": 574,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Hazelnuts",
+        "calories": 628,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pistachios",
+        "calories": 562,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Macadamia Nuts",
+        "calories": 718,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Quinoa",
+        "calories": 222,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Black Beans",
+        "calories": 339,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Kidney Beans",
+        "calories": 333,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Chickpeas",
+        "calories": 269,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Lentils",
+        "calories": 353,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Tofu",
+        "calories": 144,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Tempeh",
+        "calories": 193,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Seitan",
+        "calories": 370,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Coconut Milk",
+        "calories": 230,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Soy Milk",
+        "calories": 54,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Oats",
+        "calories": 389,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Maple Syrup",
+        "calories": 260,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Vanilla Extract",
+        "calories": 12,
+        "measurementUnit": "teaspoons"
+    },
+    {
+        "name": "Baking Powder",
+        "calories": 5,
+        "measurementUnit": "teaspoons"
+    },
+    {
+        "name": "Baking Soda",
+        "calories": 0,
+        "measurementUnit": "teaspoons"
+    },
+    {
+        "name": "Cornstarch",
+        "calories": 488,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Almond Flour",
+        "calories": 576,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Coconut Flour",
+        "calories": 473,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Canned Tomatoes",
+        "calories": 32,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Chicken Broth",
+        "calories": 10,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Beef Broth",
+        "calories": 15,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Vegetable Broth",
+        "calories": 6,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Red Wine Vinegar",
+        "calories": 1,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Apple Cider Vinegar",
+        "calories": 3,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "White Wine Vinegar",
+        "calories": 2,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Rice Vinegar",
+        "calories": 0,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Balsamic Vinegar",
+        "calories": 14,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Lime Juice",
+        "calories": 3,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Orange Juice",
+        "calories": 6,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Cranberry Juice",
+        "calories": 9,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Pineapple Juice",
+        "calories": 5,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Grapefruit Juice",
+        "calories": 6,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Coconut Water",
+        "calories": 46,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Soda Water",
+        "calories": 0,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Tonic Water",
+        "calories": 1,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Ginger Beer",
+        "calories": 89,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Club Soda",
+        "calories": 0,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Whiskey",
+        "calories": 64,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Vodka",
+        "calories": 64,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Rum",
+        "calories": 64,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Tequila",
+        "calories": 64,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Gin",
+        "calories": 64,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Red Wine",
+        "calories": 123,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "White Wine",
+        "calories": 121,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Beer",
+        "calories": 153,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Champagne",
+        "calories": 89,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Soy Sauce",
+        "calories": 8,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Teriyaki Sauce",
+        "calories": 45,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Hot Sauce",
+        "calories": 3,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Barbecue Sauce",
+        "calories": 30,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Mustard",
+        "calories": 10,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Ketchup",
+        "calories": 20,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Worcestershire Sauce",
+        "calories": 3,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Sriracha",
+        "calories": 5,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Pesto",
+        "calories": 80,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Tahini",
+        "calories": 89,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Hummus",
+        "calories": 27,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Guacamole",
+        "calories": 30,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Salsa",
+        "calories": 5,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Marinara Sauce",
+        "calories": 45,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Alfredo Sauce",
+        "calories": 61,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Peanuts",
+        "calories": 828,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Nutella",
+        "calories": 200,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Marshmallows",
+        "calories": 159,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Graham Crackers",
+        "calories": 408,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Chocolate Syrup",
+        "calories": 133,
+        "measurementUnit": "milliliters"
+    },
+    {
+        "name": "Caramel Sauce",
+        "calories": 129,
+        "measurementUnit": "tablespoons"
+    },
+    {
+        "name": "Ice Cream",
+        "calories": 267,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Frozen Yogurt",
+        "calories": 127,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Whipped Cream",
+        "calories": 52,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Cake Mix",
+        "calories": 210,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Brownie Mix",
+        "calories": 143,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pancake Mix",
+        "calories": 334,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Waffle Mix",
+        "calories": 325,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Biscuit Mix",
+        "calories": 338,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pizza Dough",
+        "calories": 234,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Pie Crust",
+        "calories": 117,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Cookie Dough",
+        "calories": 371,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Puff Pastry",
+        "calories": 574,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Phyllo Dough",
+        "calories": 299,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Crescent Rolls",
+        "calories": 100,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Croissant Dough",
+        "calories": 406,
+        "measurementUnit": "grams"
+    },
+    {
+        "name": "Bread Dough",
+        "calories": 256,
+        "measurementUnit": "grams"
+    }
+]
